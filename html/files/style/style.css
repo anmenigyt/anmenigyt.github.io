@@ -2,6 +2,8 @@
     background: url(https://images.wallpaperscraft.ru/image/belyy_fon_vmyatiny_nerovnosti_tekstura_69592_2048x1152.jpg), 
    }
 
+/* Банеры */ 
+
 .banner1 {
     position: absolute; /* Абсолютное позиционирование */
     bottom: 55px; /* Положение от нижнего края */
@@ -24,3 +26,9 @@
     line-height: 1px;
     position: fixed; /* Фиксированное положение */
     }
+
+/* Изоображение */ 
+
+    .figg {
+    text-align: center; /* Выравнивание по центру */ 
+   }
