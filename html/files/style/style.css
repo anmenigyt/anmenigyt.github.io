@@ -1,0 +1,22 @@
+  .banner1 {
+    position: absolute; /* Абсолютное позиционирование */
+    bottom: 55px; /* Положение от нижнего края */
+    right: 5px; /* Положение от правого края */
+    line-height: 1px;
+    position: fixed; /* Фиксированное положение */
+    }
+     .banner2 {
+    position: absolute; /* Абсолютное позиционирование */
+    bottom: 20px; /* Положение от нижнего края */
+    right: 5px; /* Положение от правого края */
+    line-height: 1px;
+    position: fixed; /* Фиксированное положение */
+    }
+     
+     .banner3 {
+    position: absolute; /* Абсолютное позиционирование */
+    bottom: 90px; /* Положение от нижнего края */
+    right: 5px; /* Положение от правого края */
+    line-height: 1px;
+    position: fixed; /* Фиксированное положение */
+    }
