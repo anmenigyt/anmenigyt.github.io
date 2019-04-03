@@ -26,3 +26,11 @@
     line-height: 1px;
     position: fixed; /* Фиксированное положение */
     }
+
+    .banner4 {
+    position: absolute; /* Абсолютное позиционирование */
+    bottom: 20px; /* Положение от нижнего края */
+    right: 30px; /* Положение от правого края */
+    line-height: 1px;
+    position: fixed; /* Фиксированное положение */
+    }
