@@ -166,6 +166,20 @@
         <div id="tab1" class="r-tab-content active">
         Раздел первый
         </div>
+        <!-- tab 2 -->
+        <div class="r-tab-head green" rel="tab2">Поддерживаемые ресурсы</div>
+        <div id="tab2" class="r-tab-content active">
+        Раздел второй
+        </div>
+        
+        
+        
+        
+        
+        
+        
+        
+        
         <!-- tab 2-->
         <div class="r-tab-head green" rel="tab2">2/div>
         <div id="tab2" class="r-tab-content how-to-use">
@@ -186,6 +200,11 @@
         <div id="tab5" class="r-tab-content">
           Раздел пятый
     </div>
+          
+          
+          
+          
+          
     <script>
       (function(b){function c(a,e){this.element=a;this.$e=b(a);this.opt=b.extend({},f,e);this.c=this.opt.classes;this._init()}var f={startCollapsed:!0,eventNameSpace:"rtab",classes:{active:"active",tabs:"r-tabs",tabsBox:"r-tabs-box",tabHead:"r-tab-head",tabContent:"r-tab-content"}};c.prototype._init=function(){var a=this;this.opt.startCollapsed&&!this._isTabs()&&this._toggleActiveElements();b(window).on("resize."+this.opt.eventNameSpace,function(b){a._updateState(b)});this.$e.on("click","."+this.c.tabs+
 " li, ."+this.c.tabHead,function(b){a._clickTab(this,b)})};c.prototype.destroy=function(){this.$element.removeData("rtabs");b(window).off("."+this.opt.eventNameSpace)};c.prototype._isTabs=function(){return b("."+this.c.tabs,this.$e).is(":visible")};c.prototype._updateState=function(a){this._isTabs()&&!this._getActiveTab()[0]&&this._setFirstTabActive()};c.prototype._getActiveTab=function(){return b("."+this.c.tabs+" li."+this.c.active,this.$e)};c.prototype._setFirstTabActive=function(){var a=b("."+
