@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.anmenigyt.ucoz.site	TRUE	/	FALSE	1999999999	ranmenigytuzll	1538984069
+.google.com	TRUE	/	FALSE	1999999999	NID	140=KUpmIuQOuirb2t3OXn5LlNTYzjiZnOnPob_cZDcCqvE6ezKxbTR0-cMgzfH1_Nw2yHTTks7YtWpr7KprJneLXPyGx_jics7DMa5KGiCQHle4iyrK4seKzpYK4CWpk67W
+

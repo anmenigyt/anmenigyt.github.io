@@ -1,0 +1,16 @@
+HTTrack3.49-2 launched on Mon, 08 Oct 2018 10:34:26 at http://anmenigyt.ucoz.site/index/dsdd/0-6 +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(httrack -@i4 -O /storage/emulated/0/HTTrack/Websites/21 -A25000k%Px%q0u1s2%s%u%fDaK0p3H0N0 http://anmenigyt.ucoz.site/index/dsdd/0-6 +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2017], %s -->" -%l LANGUAGE_ISO,* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:36:52	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://vk.com/js/api/openapi.js?159 (from anmenigyt.ucoz.site/index/dsdd/0-6)
+10:37:23	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://vk.com/js/api/openapi.js?159 (from anmenigyt.ucoz.site/index/dsdd/0-6)
+10:37:23	Error: 	"Not Found" (404) at link anmenigyt.ucoz.site/index/dsdd/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from https://connect.facebook.net/ru_RU/sdk.js)
+10:37:23	Error: 	"Not Found" (404) at link anmenigyt.ucoz.site/index/dsdd/^([^:/? (from https://connect.facebook.net/ru_RU/sdk.js)
+10:37:54	Error: 	"error:00000005:lib(0):func(0):DH lib" (-5) after 2 retries at link https://vk.com/js/api/openapi.js?159 (from anmenigyt.ucoz.site/index/dsdd/0-6)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 28 seconds : 96 links scanned, 90 files written (2116671 bytes overall) [1702490 bytes received at 8185 bytes/sec], 654650 bytes transferred using HTTP compression in 15 files, ratio 29%, 5.1 requests per connection
+(3 errors, 2 warnings, 0 messages)
