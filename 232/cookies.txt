@@ -1,5 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-.furaffinity.net	TRUE	/	FALSE	1999999999	__cfduid	d75e1f141fb984a09d55c0172e87599d81543566998
-www.furaffinity.net	TRUE	/	FALSE	1999999999	cf_use_ob	0
-
